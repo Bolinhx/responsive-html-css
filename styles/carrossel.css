@@ -47,7 +47,8 @@
 
 .descricao__titulo{
     font-weight:700;
-    color: var(--laranja)
+    color: var(--laranja);
+    margin-top: .5em;
 }
 
 .descricao__titulo-livro{
