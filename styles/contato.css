@@ -23,8 +23,10 @@
 
 .contato__email::placeholder{
     font-family: var(--fonte-principal);
+    font-size:14px;
     color: var(--azul-degrade);
     background: url("../assets/email.svg") no-repeat;
+    background-size: 7%;
     padding-left: 2em;
     
 }
